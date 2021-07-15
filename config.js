@@ -1,7 +1,7 @@
 {
 
   "host": "0.0.0.0",
-  "port": 7777,
+  "port": 8035,
 
   "keyLength": 10,
 
@@ -33,6 +33,7 @@
   },
 
   "storage": {
+    "path": "/raid/md0/hasteDocuments",
     "type": "file"
   },
 
